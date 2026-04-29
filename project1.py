@@ -1,7 +1,3 @@
-import os
-
-print("Current directory:", os.getcwd())
-print("Files in directory:", os.listdir())
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
